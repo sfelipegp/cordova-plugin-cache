@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-cache",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Cordova Clear Cache Plugin",
   "cordova": {
     "id": "cordova-plugin-cache",
@@ -15,6 +15,7 @@
   },
   "keywords": [
     "cordova",
+    "webview",
     "cache",
     "ecosystem:cordova",
     "cordova-android",

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="org.apache.cordova.plugin.cache"
-    version="1.0.5">
+    id="cordova-plugin-cache"
+    version="1.0.6">
 
-    <name>Clear Cache</name>
+    <name>Cordova Clear Cache Plugin</name>
     <repo>https://github.com/andxyz/cordova-plugin-cache.git</repo>
     <keywords>webview,cache,clear,android,ios</keywords>
     <license>MIT</license>
     <author>andxyz</author>
     <description>
-      &lt;p&gt;This is a WebView cache plugin for Cordova 5.4.0 supporting Android (>=2.3.3) and iOS(>=6.0). It allows to clear the cordova webview cache.&lt;/p&gt;
+      &lt;p&gt;A plugin to clear the WebView cache for Cordova 5.4.0 supporting Android (>=5.0.0) and iOS(>=9.2)&lt;/p&gt;
     </description>
 
     <js-module src="www/Cache.js" name="Cache">
